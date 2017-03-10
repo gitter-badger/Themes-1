@@ -1,6 +1,8 @@
 ## GV Themes
 You'll find a list of the following Themes that we personally worked on or created for personal and public use.
 
+[![Join the chat at https://gitter.im/GVHub/Lobby](https://badges.gitter.im/GVHub/Lobby.svg)](https://gitter.im/GVHub/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### MatterHub
 MatterHub is a [WIP] at the moment and we have no idea when we'll actually release the full theme to the public, might end up being our first project to be submitted into Humhub's Marketplace in the future.
 
