@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## GV Themes
+You'll find a list of the following Themes that we personally worked on or created for personal and public use.
 
-You can use the [editor on GitHub](https://github.com/GreenVolume/Themes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### MatterHub
+MatterHub is a [WIP] at the moment and we have no idea when we'll actually release the full theme to the public, might end up being our first project to be submitted into Humhub's Marketplace in the future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MadeHub
+MadeHub is a theme that isn't 100% to normal standards when it comes to themes with Humhub, as it doesn't use the normal call-to default menu but uses a customized menu that must be added manually to the main.php code.
 
-### Markdown
+### FlatHub
+FlatHub is a project that was started by another person and we just made sure that it was compatiable with v1.1.2 of Humhub.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GreenVolume/Themes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## __More to come__
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our themes? Check out our [documentation](https://github.com/GreenVolume/humhub-themes-MadeHub/wiki) for MadeHub or [contact us](mailto:tsuharusarah@gmail.com) and we’ll help you sort it out.
