@@ -12,6 +12,9 @@ MadeHub is a theme that isn't 100% to normal standards when it comes to themes w
 ### [FlatHub](https://github.com/GreenVolume/humhub-themes-flathub)
 FlatHub is a project that was started by another person and we just made sure that it was compatiable with v1.1.2 of Humhub.
 
+### [Basic Red](https://github.com/GreenVolume/basicred-humhub-theme)
+Humhub Default theme in Red
+
 ## __More to come__
 
 ### Support or Contact
