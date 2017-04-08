@@ -15,6 +15,9 @@ FlatHub is a project that was started by another person and we just made sure th
 ### [Basic Red](https://github.com/GreenVolume/basicred-humhub-theme)
 Humhub Default theme in Red
 
+### [Discord Blue](https://github.com/GreenVolume/humhub-discordblue-theme)
+Humhub Default theme in Discord Blue
+
 ## __More to come__
 
 ### Support or Contact
